@@ -1,0 +1,82 @@
+１，色
+#333、#fff
+
+
+２，フォント
+Noto Sans JP;--------------------------------------
+
+PC
+
+ニュースページ送り数字PC
+font-size: 13px;
+font-weight: 400;
+
+
+font-size: 16px;
+font-weight: 400;
+
+font-size: 18px;
+font-weight: 400;
+
+font-size: 18px;
+font-weight: 500;
+
+font-size: 18px;
+font-weight: 700;
+
+font-size: 40px;
+font-weight: 500;
+
+font-size: 48px;
+font-weight: 700;
+
+font-size: 56px;
+font-weight: 500;
+
+トップページの大きい文字のみ
+font-size: 80px;
+font-weight: 700;
+
+SP
+
+ニュースページ送り数字
+font-size: 10px;
+font-weight: 400;
+
+font-size: 14px;
+font-weight: 400;
+
+font-size: 16px;
+font-weight: 700;
+
+font-size: 20px;
+font-weight: 500;
+
+
+
+Noto Sans CJK JP;-----------------------------------
+(Google Fontsになかった)
+font-size: 12px;
+font-weight: 400;
+
+font-size: 16px;
+font-weight: 400;
+
+DM Sans;--------------------------------------------
+font-size: 20px;
+font-weight: 400;
+
+font-size: 24px;
+font-weight: 400;
+
+font-size: 40px;
+font-weight: 700;
+
+Inter;----------------------------------------------
+font-size: 18px;
+font-weight: 400;
+
+
+M PLUS Code Latin;----------------------------------
+font-size: 71px;
+font-weight: 600;

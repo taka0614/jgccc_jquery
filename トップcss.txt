@@ -1,0 +1,336 @@
+色 #FFF,#333
+
+ヘッダー----------------------------------------------------------
+
+・横箇条書き文字（製品、共同開発、基盤技術、4つの事業と展望、採用、サステナビリティ）
+font-family: Noto Sans JP;
+font-size: 18px;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: left;
+
+・横箇条書き文字　問い合わせ　English
+font-family: Noto Sans CJK JP;
+font-size: 12px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+
+フッター----------------------------------------------------------
+
+住所、コピーライト
+font-family: Noto Sans CJK JP;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+コンテンツ（トップページ、製品情報）
+font-family: Noto Sans JP;
+font-size: 16px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+お問い合わせ
+font-family: Noto Sans CJK JP;
+font-size: 16px;
+font-weight: 400;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: left;
+
+フッター-sp----------------------------------------------------------
+
+コピーライト
+font-family: Noto Sans CJK JP;
+font-size: 12px;
+font-weight: 400;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: left;
+
+コンテンツ（トップページ、製品情報）
+font-family: Noto Sans JP;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+お問い合わせ
+font-family: Noto Sans CJK JP;
+font-size: 16px;
+font-weight: 400;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: left;
+
+
+ボタン------------------------------------------------------------
+
+・ニュース一覧、詳しく見る
+font-family: Noto Sans JP;
+font-size: 18px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+トップ------------------------------------------------------------
+
+サムネイル
+・ナノから世界を変える
+font-family: Noto Sans JP;
+font-size: 80px;
+font-weight: 700;
+line-height: 112px;
+letter-spacing: 0.02em;
+text-align: center;
+
+・JGC　C&C（ナノから世界を変えるの下）
+font-family: DM Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0.02em;
+text-align: center;
+
+NEWS
+・NEWS
+font-family: DM Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.02em;
+text-align: left;
+
+
+・日付
+font-family: Noto Sans JP;
+font-size: 18px;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: left;
+
+
+・ニュースタイトル
+font-family: Noto Sans JP;
+font-size: 18px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+
+製品
+・製品
+font-family: DM Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.02em;
+text-align: left;
+
+
+・コーナー説明
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0.02em;
+text-align: left;
+
+・共同開発、基盤技術
+font-family: Noto Sans JP;
+font-size: 48px;
+font-weight: 700;
+line-height: 100px;
+letter-spacing: 0.02em;
+text-align: left;
+
+もっと知ってほしい
+font-family: M PLUS Code Latin;
+font-size: 71px;
+font-weight: 600;
+line-height: 99px;
+letter-spacing: 0.02em;
+text-align: left;
+
+
+4つの事業と展望
+font-family: Noto Sans JP;
+font-size: 48px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0.02em;
+text-align: left;
+
+石油精製、ケミカル・・・・
+font-family: Noto Sans JP;
+font-size: 40px;
+font-weight: 500;
+line-height: 56px;
+letter-spacing: 0.02em;
+text-align: center;
+
+refinement、....
+font-family: DM Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0.08em;
+text-align: center;
+
+
+お知らせ------------------------------------------------------------
+
+NEWS
+font-family: Noto Sans JP;
+font-size: 56px;
+font-weight: 500;
+line-height: 56px;
+letter-spacing: 0.02em;
+text-align: left;
+
+ニュース日
+font-family: Noto Sans JP;
+font-size: 18px;
+font-weight: 700;
+letter-spacing: 0em;
+text-align: left;
+
+ニュースタイトル
+font-family: Noto Sans JP;
+font-size: 18px;
+font-weight: 400;
+letter-spacing: 0em;
+text-align: left;
+
+ニュースページ送り数字
+font-family: Noto Sans JP;
+font-size: 13px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+Sp お知らせ-------------------------------------------------------
+
+NEWS
+font-family: Noto Sans JP;
+font-size: 20px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0.02em;
+text-align: left;
+
+ニュース日
+font-family: Noto Sans JP;
+font-size: 16px;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: left;
+
+ニュースタイトル
+font-family: Noto Sans JP;
+font-size: 16px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+
+ニュースページ送り数字
+font-family: Noto Sans JP;
+font-size: 10px;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+
+
+お知らせ-詳細-------------------------------------------------------
+（ニュース記事-PC）
+ニュースタイトル上、白
+font-family: Noto Sans JP;
+font-size: 56px;
+font-weight: 500;
+line-height: 90px;
+letter-spacing: 0em;
+text-align: left;
+
+ニュース日
+font-family: Noto Sans JP;
+font-size: 20px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+ニュースタイトル下、黒
+font-family: Noto Sans JP;
+font-size: 40px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+
+
+ニュース内容
+font-family: Noto Sans JP;
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+
+ページ送りニュース日、ページ送りニュースタイトル
+font-family: Noto Sans JP;
+font-size: 16px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+
+お知らせ-詳細-SP-------------------------------------------------------
+（ニュース記事-SP）
+
+ニュースタイトル上、白
+font-family: Noto Sans JP;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+ニュース日
+font-family: Noto Sans JP;
+font-size: 16px;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: left;
+
+ニュースタイトル下、黒
+font-family: Noto Sans JP;
+font-size: 20px;
+font-weight: 700;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+
+ページ送りニュース日、ページ送りニュースタイトル
+font-family: Noto Sans JP;
+font-size: 14px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
